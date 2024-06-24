@@ -1,7 +1,7 @@
 ## Hi there 👋
 This is my first Git Repository.
 <br>
-Author - Dhananjay Bhagat
+Author - Dhananjay (CS50)
 <!--
 **Dhanno98/Dhanno98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
