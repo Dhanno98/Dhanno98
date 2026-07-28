@@ -43,4 +43,21 @@ I'm a Java backend developer focused on building scalable backend applications w
 
 ---
 
+<!-- APACHE FINERACT -->
+## 🌿 Apache Fineract Contributions
 
+Open-source contributor to **Apache Fineract**, an Apache Software Foundation project for core banking and digital financial services.
+
+- ✅ **5 merged pull requests** across lending, savings, recurring deposits, search APIs, and core banking functionality.
+- 💰 Implemented the **charge rounding feature** based on currency denomination rules across the **Loan, Savings, Share, and Client** modules.
+- 🔍 Enhanced the **Search API** by adding entity status mappings for Savings and Share entities.
+- 🏦 Improved the **Recurring Deposit** module through bug fixes and API documentation updates.
+- 🤝 Collaborated closely with Apache Fineract maintainers through iterative code reviews, technical discussions, and implementation refinements.
+
+<div align="center">
+
+[![Apache Fineract](https://img.shields.io/badge/Apache_Fineract-5_Merged_PRs-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://github.com/apache/fineract/pulls?q=is%3Apr+author%3ADhanno98+is%3Amerged)
+
+</div>
+
+---
