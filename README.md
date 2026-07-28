@@ -86,3 +86,11 @@ A production-style full-stack e-commerce application built with a **Spring Boot 
 </p>
 
 ---
+
+<!-- CURRENTLY WORKING ON -->
+## 🌱 Currently Working On
+
+- 🚀 Contributing to **Apache Fineract** by fixing bugs, implementing new features, and collaborating with the open-source community.
+- ⚙️ Enhancing the **Ecommerce Backend** by implementing production-grade backend features such as **stock concurrency handling, refresh token authentication, Redis caching, idempotency, rate limiting, and AI-assisted features**, while deepening my understanding of these technologies.
+- 🏗️ Learning **System Design** and advanced backend design principles to build scalable, distributed applications.
+- 🧩 Practicing **Data Structures & Algorithms** on **LeetCode** to strengthen problem-solving skills.
