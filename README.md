@@ -75,3 +75,14 @@ A production-style full-stack e-commerce application built with a **Spring Boot 
 | **[Ecommerce Frontend](https://github.com/Dhanno98/Ecommerce-Frontend)** | Modern React frontend providing a complete shopping experience with protected routes, Redux state management, seller & admin dashboards, Stripe checkout, responsive UI, and seamless integration with the Spring Boot backend. | **React 19, Redux Toolkit, React Router, Vite, Tailwind CSS, Material UI, Axios, Stripe** |
 
 ---
+
+<!-- DSA & PROBLEM SOLVING -->
+## 🧩 DSA & Problem Solving
+
+<p align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Dhanno27?theme=dark&ext=contest)](https://leetcode.com/u/Dhanno27/)
+
+</p>
+
+---
