@@ -61,3 +61,17 @@ Open-source contributor to **Apache Fineract**, an Apache Software Foundation pr
 </div>
 
 ---
+
+<!-- FEATURED PROJECTS -->
+## 🚀 Featured Projects
+
+### 🛒 Ecommerce Platform
+
+A production-style full-stack e-commerce application built with a **Spring Boot backend** and **React frontend**, demonstrating clean architecture, secure authentication, payment integration, automated testing, and comprehensive technical documentation.
+
+| Repository | Description | Tech Stack |
+|------------|-------------|------------|
+| **[Ecommerce Backend API](https://github.com/Dhanno98/Ecommerce-Backend)** ⭐ | Production-style RESTful backend built with a layered architecture for a multi-role e-commerce platform, featuring product catalog management, shopping cart, order processing, Stripe payments, JWT-based authentication, OpenAPI documentation, image uploads, and comprehensive unit & integration testing. | **Java 21, Spring Boot, Spring Security, JWT, Spring Data JPA, PostgreSQL, Stripe, Swagger/OpenAPI, JUnit 5, Mockito, Maven** |
+| **[Ecommerce Frontend](https://github.com/Dhanno98/Ecommerce-Frontend)** | Modern React frontend providing a complete shopping experience with protected routes, Redux state management, seller & admin dashboards, Stripe checkout, responsive UI, and seamless integration with the Spring Boot backend. | **React 19, Redux Toolkit, React Router, Vite, Tailwind CSS, Material UI, Axios, Stripe** |
+
+---
