@@ -1,3 +1,4 @@
+<!-- HERO SECTION -->
 <div align="center">
 
 # Dhananjay Bhagat
@@ -16,3 +17,13 @@
 </div>
 
 ---
+
+<!-- ABOUT ME -->
+## 👨‍💻 About Me
+
+I'm a Java backend developer focused on building scalable backend applications with Spring Boot and contributing to open-source software.
+
+- 🌱 Building production-ready backend applications using Java, Spring Boot, PostgreSQL, REST APIs, and Spring Security.
+- 🌿 Apache Fineract contributor with 5 merged pull requests, including improvements to charge rounding, integration tests, and core banking functionality.
+- 🚀 Built a full-stack Ecommerce application featuring JWT authentication, role-based authorization, Stripe payments, and an admin dashboard.
+- 📚 Continuously improving my backend engineering skills through open-source contributions, system design, testing, and modern Java technologies.
